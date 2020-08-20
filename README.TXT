@@ -8,7 +8,7 @@ Operates as a single (required for presets to be on a website) .html file.
 see http://eatme.pro/sitemaker to run live.
 
 download latest development .html:
-save the iframe source (right click.. Save As..., near "Results:" below the introductive text) on http://eatme.pro/sitemaker .
+save the iframe source (right click.. view source.., near "Results:" below the introductive text) on http://eatme.pro/sitemaker .
 
 So, you've always wanted your artist website.. But you did not know where to start?
 Here is a webpage for those of you that want to create an artist webpage.
