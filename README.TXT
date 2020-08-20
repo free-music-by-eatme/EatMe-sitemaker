@@ -3,6 +3,7 @@ EatMe/sitemaker
 
 Sitemaker will output a single .html file website 
 with (now 4) seperate content pages, menu items and links to customize. 
+It can embed from several music hosting platforms * suggestions to add?
 Operates as a single (required for presets to be on a website) .html file.
 
 see http://eatme.pro/sitemaker to run live.
