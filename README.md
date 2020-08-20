@@ -1,2 +1,0 @@
-# EatMe-sitemaker
-EatMe/sitemaker
